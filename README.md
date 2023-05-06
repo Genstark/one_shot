@@ -1,6 +1,6 @@
 # one_shot
 
-# Follow thsi command
+# Follow this command
 
 # cd one_shot
 
